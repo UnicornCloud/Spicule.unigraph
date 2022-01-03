@@ -4,7 +4,7 @@
 [Getting started with Big Data systems using the Spicule Data Engine](https://youtu.be/WNs5vA3Pljg) [Juju experts](https://jaas.ai/experts/spicule)
 
 # Juju Charms:
-Home: [Juju SpiculeCharms](https://jaas.ai/u/spiculecharms
+Home: [Juju SpiculeCharms](https://jaas.ai/u/spiculecharms)
 
 [Anssr](https://jaas.ai/u/spiculecharms/anssr-data-engine)
 
